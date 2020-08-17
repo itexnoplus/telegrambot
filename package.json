@@ -1,0 +1,26 @@
+{
+  "name": "glitchuz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Kamron",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itexnoplus/telegrambot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itexnoplus/telegrambot/issues"
+  },
+  "homepage": "https://github.com/itexnoplus/telegrambot#readme",
+  "description": ""
+}
